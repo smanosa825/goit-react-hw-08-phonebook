@@ -1,0 +1,16 @@
+.contactsPagesh1 {
+  text-align: center;
+  margin: 30px auto 25px auto;
+  font-size: 40px;
+}
+
+.contactsPagesh2 {
+  text-align: center;
+  margin: 40px auto 5px auto;
+  font-size: 30px;
+}
+
+.homePageContainer {
+  display: flex;
+  margin: auto;
+}
